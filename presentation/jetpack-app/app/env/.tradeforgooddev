@@ -1,0 +1,5 @@
+BUNDLE_IDENTIFIER=com.tradeforgood
+VERSION_CODE=1
+VERSION_NAME=1.0.0
+FLAVOR=tradeforgooddev
+MARKDOWN_ENV=tradeforgood
